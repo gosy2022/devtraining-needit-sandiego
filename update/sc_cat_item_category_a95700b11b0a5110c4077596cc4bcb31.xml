@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Cars">63f38c7d1bc65110c4077596cc4bcbf6</sc_cat_item>
+        <sc_category display_value="Formula 1 Cars">4d6b3a651bc25110c4077596cc4bcb96</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 13:01:13</sys_created_on>
+        <sys_id>a95700b11b0a5110c4077596cc4bcb31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Formula 1 Cars.Cars</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_a95700b11b0a5110c4077596cc4bcb31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 13:01:13</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
